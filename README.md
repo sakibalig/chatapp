@@ -1,5 +1,5 @@
 
-# Name : Shaukat Ali
+# Name : Sakib Khan
 # College: IIT Kharagpur
 # Department : Chemical Engineering
 
